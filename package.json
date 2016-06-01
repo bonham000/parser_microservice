@@ -1,0 +1,23 @@
+{
+  "name": "parser-microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parsing Service",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonham000/parser_microservice.git"
+  },
+  "author": "Sean Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonham000/parser_microservice/issues"
+  },
+  "homepage": "https://github.com/bonham000/parser_microservice#readme"
+}
