@@ -4,10 +4,16 @@
   "description": "Request Header Parsing Service",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "accepts": "^1.3.3",
+    "express": "^4.13.4",
+    "express-useragent": "^0.2.4"
   },
+  "engines": {
+    "node": "v4.4.5";
+  }
   "devDependencies": {},
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
